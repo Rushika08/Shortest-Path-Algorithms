@@ -1,4 +1,4 @@
-from student_submission import (
+from functions import (
     create_graph,
     display_graph,
     dijkstra,
